@@ -51,4 +51,4 @@ No one was alone - others jumped in to help fix problems. Wins made us smile / B
 
 Starting is tough - our first team stand ups took 40 mins+. But we persisted, now Stand Ups are 10-12 mins everyday!
 
-Give it a go and [let me know what you think](sayhi.md).
+Give it a go and [let me know what you think](sayhi.md). _B.Yeo (SCRUM Master Puppy)_

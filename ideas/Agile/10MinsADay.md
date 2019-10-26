@@ -45,10 +45,12 @@ Set team rules about acceptable / not acceptable behaviour.
 
 You can do a lot of things in 10 (focused) mins. Teams that can do a lot in 10 mins really change the world.
 
-When we applied these 3 simple things in our team, everything changed. We got closer together. People stepped up to own  problems. 
-
-No one was alone - others jumped in to help fix problems. Wins made us smile / Blockers made us cry (everyone together).
+When we applied these 3 simple things in our team, everything changed
+  - We get closer together. 
+  - People step up to own problems. 
+  - No one is alone, others jumped in to help + fix + support.
+  - Wins make us smile / Blockers make us cry (everyone together).
 
 Starting is tough - our first team stand ups took 40 mins+. But we persisted, now Stand Ups are 10-12 mins everyday!
 
-Give it a go and [let me know what you think](sayhi.md). _B.Yeo (SCRUM Master Puppy)_
+Give it a go and [tell me what you think](sayhi.md). _B.Yeo (SCRUM Master Puppy)_

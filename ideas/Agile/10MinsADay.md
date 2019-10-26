@@ -37,8 +37,10 @@ Set team rules about acceptable / not acceptable behaviour.
 
 ### 10 mins is a lot of time
 
-When we applied this AGILE discipline in our teams, everything changed. We got closer together. People stepped up to own problems and helps each other fix problems. 
+When we applied these 3 simple things in our team, everything changed. We got closer together. People stepped up to own  problems. 
 
-Starting is tough - our first team stand ups took 40 mins+. But with persistence, now our Stand Ups are 10-12 mins. All without skipping a beat or lose out on something.
+No one was alone - others jumped in to help fix problems. Wins made us smile / Blockers made us cry - together.
+
+Starting is tough - our first team stand ups took 40 mins+. But we persisted, now Stand Ups are 10-12 mins everyday!
 
 Give it a go and [let me know what you think](sayhi.md).

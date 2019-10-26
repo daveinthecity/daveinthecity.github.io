@@ -21,7 +21,7 @@ Talking about wins is easy. Blockers need trust. Stand Up must be 'Safe Zone'. G
 
 ### Who's the 'SCRIBE' and who's the 'SCRUM Master' today?
 
-Be clear about who does what right at the start of Stand Up. Out Stand Ups always have 2 key players:
+Be clear about who does what right at the start of Stand Up. Our Stand Up always has 2 important people:
 
 1. SCRUM Master leads Stand Up 
 
@@ -34,7 +34,9 @@ Be clear about who does what right at the start of Stand Up. Out Stand Ups alway
   - SCRIBE must be ready - KanBan open and 'ready-to-type' before Stand Up starts.
   - Write it down in the room - get ideas, notes immediately into User Stories right there in the room.
   - Don't break the flow - listen hard, capture it first time right (try not to stop meeting rhythm to ask 'pls repeat that', but do it if you must).
-  
+
+We also found it helps to rotate these roles. Swapping around give everyone equal voice. Everyone like to be 'No. 1' sometimes.
+
 ### AGILE Discipline
 
 Set team rules about acceptable / not acceptable behaviour.
@@ -42,6 +44,8 @@ Set team rules about acceptable / not acceptable behaviour.
   - Stand Ups starts in 3 mins - no exceptions / on the dot / even when not everyone is around
   - Fail fast - 48hr max, 72hr cut your losses and change direction 
   - No blame - information (especially bad news) is not a weapon
+
+Team rules ...
 
 ### 10 mins is a lot of time
 

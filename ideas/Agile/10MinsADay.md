@@ -16,7 +16,8 @@ Try focusing on 2 key things:
   - Strictly `no updates` during standup - playbacks and retros are where you share lessons learnt.
   - Report what's DONE - give your team an energy boost.
   - Call for help - if you're stuck others can help (or it will hurt others if you don't coordiante).
-  - Safe Zone - good teams can talk about what works and doesn't. Build [trust and empathy in teams](NoIdiotsAllowed.md).
+
+Talking about wins is easy. Blockers need trust. Stand Up must be 'Safe Zone'. Good teams can talk about what works and doesn't. Build [trust and empathy in teams](NoIdiotsAllowed.md).
 
 ### Who's the 'SCRIBE' and who's the 'SCRUM Master' today?
 
@@ -38,8 +39,9 @@ Be clear about who does what right at the start of Stand Up. Out Stand Ups alway
 
 Set team rules about acceptable / not acceptable behaviour.
 
-  - Stand Ups starts in 3 mins - no exceptions / on the dot / even when somone is not around
-  - 
+  - Stand Ups starts in 3 mins - no exceptions / on the dot / even when not everyone is around
+  - Fail fast - 48hr max, 72hr cut your losses and change direction 
+  - No blame - information (especially bad news) is not a weapon
 
 ### 10 mins is a lot of time
 

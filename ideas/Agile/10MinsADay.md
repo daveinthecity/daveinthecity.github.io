@@ -1,3 +1,4 @@
+_AGILE >_
 ## What can your team do in 10-mins every day?
 
 Stand Ups are a big part of AGILE teams. Without speaking to each other everyday, people very quickly lose track of what's going on. Teams fail when people disconnect or activities are uncoordianted.
